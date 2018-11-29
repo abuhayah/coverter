@@ -95,7 +95,7 @@ public class AppTest
 	public void test256() {
 	    int input = 256;
 	    String output = app.convert(input);
-	    Assert.assertEquals("two Hundred Fifty Six", output);
+	    Assert.assertEquals("Two Hundred Fifty Six", output);
 	} 
     
 }
