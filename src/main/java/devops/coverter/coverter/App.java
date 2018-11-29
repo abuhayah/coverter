@@ -48,7 +48,7 @@ public class App
 
     }
     
-    public static void main( String[] args )
+    public static void main( String[] args ) throws IOException
     {
     	App numberWords=new App() ;
         BufferedReader reader=new BufferedReader(new InputStreamReader(System.in));
